@@ -1,0 +1,14 @@
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.exe
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.deps.json
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.runtimeconfig.json
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.runtimeconfig.dev.json
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.dll
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\bin\Debug\netcoreapp3.1\zzzzzzzz.pdb
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.csproj.AssemblyReference.cache
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.AssemblyInfoInputs.cache
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.AssemblyInfo.cs
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.csproj.CoreCompileInputs.cache
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.dll
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.pdb
+C:\Users\c_class\source\repos\zzzzzzzz\zzzzzzzz\obj\Debug\netcoreapp3.1\zzzzzzzz.genruntimeconfig.cache
